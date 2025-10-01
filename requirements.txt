@@ -1,0 +1,14 @@
+# UYTCAB Project Requirements
+
+# Web scraping and automation
+undetected-chromedriver>=3.5.0
+selenium>=4.0.0
+
+# PDF processing
+pdfplumber>=0.10.0
+
+# Data processing
+pandas>=2.0.0
+
+# Additional dependencies
+Pillow>=10.0.0
